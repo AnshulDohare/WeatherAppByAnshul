@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WeatherAppByAnshul" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.WeatherAppByAnshul" parent="Base.Theme.WeatherAppByAnshul" />
+    <style name="Theme.Design.Light.NoActionBar.BackgroundImageStyle">
+        <item name="android:windowBackground">@drawable/weather_background</item>
+    </style>
+</resources>
